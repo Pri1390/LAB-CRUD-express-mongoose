@@ -79,3 +79,5 @@ albumRoute.put("update/:albumId", async (req, res) =>{
         
     }
   })
+
+  export default albumRoute
